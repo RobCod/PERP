@@ -11,3 +11,4 @@ SkyWalker's version of PERP. Updated constantly.
     
 # ToDo's
     * Fix Car Weather Spam Error
+    * Fix Cars crashing the server
